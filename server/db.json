@@ -1,0 +1,61 @@
+{
+  "Users": [
+    {
+      "id": "1",
+      "name": "Vikram",
+      "email": "Vikram@gmail.com",
+      "password": "Vikram@2001",
+      "balance": 10000
+    },
+    {
+      "id": "2",
+      "name": "Vicky",
+      "email": "Vikram2@gmail.com",
+      "password": "Vik2ram@2001"
+    },
+    {
+      "id": "3deeeb8f-8629-4125-9a7b-1f2cf14ba86e",
+      "name": "akhil",
+      "email": "akhil@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "f4302cef-1075-4b21-907c-06a55e774dc2",
+      "name": "v",
+      "email": "k",
+      "password": "3"
+    },
+    {
+      "id": "50b9b02f-4905-4735-8bb0-b2cf7cd981dd",
+      "name": "k",
+      "email": "4",
+      "password": "5"
+    },
+    {
+      "id": "6f21195c-7373-49ea-9ce3-0f5158933a3c",
+      "name": "lucky",
+      "email": "lucky@gmail.com",
+      "password": "lucky@10"
+    },
+    {
+      "id": "af941fad-df03-40da-a3ef-345d5865af61",
+      "name": "vikky",
+      "email": "j",
+      "password": "5756"
+    },
+    {
+      "id": "44adf0f1-f4f3-4980-85a9-b5de000897ac",
+      "balance": 0,
+      "name": "sharma",
+      "email": "sharma@2001",
+      "password": "sharma123"
+    },
+    {
+      "id": "ab39b724-48e2-4fe4-b663-5de1a218c9ec",
+      "balance": 1000,
+      "name": "w",
+      "email": "w",
+      "password": "123"
+    }
+  ]
+}
